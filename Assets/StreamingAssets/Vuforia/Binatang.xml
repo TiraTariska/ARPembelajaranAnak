@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="siput" size="100.000000 146.090042" />
+    <ImageTarget name="kelinci" size="100.000000 146.090042" />
+    <ImageTarget name="kalajengking" size="100.000000 146.090042" />
+    <ImageTarget name="babi" size="100.000000 146.090042" />
+    <ImageTarget name="angsa" size="100.000000 146.090042" />
+    <ImageTarget name="kupu-kupu" size="100.000000 146.090042" />
+    <ImageTarget name="sapi" size="100.000000 146.090042" />
+    <ImageTarget name="salamander" size="100.000000 146.090042" />
+    <ImageTarget name="rusa" size="100.000000 146.090042" />
+    <ImageTarget name="laba-laba" size="100.000000 146.090042" />
+    <ImageTarget name="kodok" size="100.000000 146.090042" />
+    <ImageTarget name="kambing" size="100.000000 146.090042" />
+    <ImageTarget name="hiu" size="100.000000 146.090042" />
+    <ImageTarget name="buaya" size="100.000000 146.090042" />
+    <ImageTarget name="beruang" size="100.000000 146.090042" />
+    <ImageTarget name="ayam" size="100.000000 146.090042" />
+  </Tracking>
+</QCARConfig>
